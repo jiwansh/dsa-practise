@@ -55,8 +55,3 @@ This problem follows a standard recursive backtracking pattern:
 * **Sum Root to Leaf Numbers (LeetCode 129):** Sum up numbers formed by paths.
 
 ---
-
-**FLASHCARD / MIND MAP RECALL TIP**
-** StringBuilder + setLength(oldLen):** This is the ultimate "memory hack" for root-to-leaf path problems to avoid the overhead of immutable Strings.
-
-Would you like me to move on to **Path Sum II** or **Lowest Common Ancestor (LCA)** next?
